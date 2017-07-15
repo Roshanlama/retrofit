@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/havoc/AndroidStudioProjects/UserlistUsingRetrofit/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/home/havoc/AndroidStudioProjects/UserlistUsingRetrofit/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b3746d513ad4c0a7ca8a6fa4c1883904826164a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/havoc/AndroidStudioProjects/UserlistUsingRetrofit/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f3aa4aba0063efcdfa35a46ab7ce3740eab58f50">
+        <dex dex="/home/havoc/AndroidStudioProjects/UserlistUsingRetrofit/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_110351d69ad021028d80bf0ded53954946b8edac/classes.dex" />
+    </item>
+
+</items>
